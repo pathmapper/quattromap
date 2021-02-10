@@ -1,4 +1,3 @@
 {
-  "packages": [],
-  "sandboxes": ["/"]
+  "sandboxes": ["new", "vanilla"]
 }
